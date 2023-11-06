@@ -18192,7 +18192,7 @@ t.Dn.a(a)
 s=J.aF(a)
 r=s.i(a,0)
 r.toString
-switch(B.BI[A.kK(r)].a){case 0:s=s.cQ(a,1)
+switch(B.BH[A.kK(r)].a){case 0:s=s.cQ(a,1)
 r=s[0]
 r.toString
 A.kK(r)
@@ -32828,7 +32828,7 @@ $S:0}
 A.TY.prototype={
 $1(a){var s=null,r=this.a<500,q=r?90:40
 r=r?0:20
-return new A.br(new A.aJ(q,q,q,q),A.nd(A.a_v(A.l6(A.a([B.xd,new A.br(new A.aJ(r,r,r,r),B.LE,s)],t.D),B.al,B.aH,B.bO),s,s),s,s),s)},
+return new A.br(new A.aJ(q,q,q,q),A.nd(A.a_v(A.l6(A.a([B.xd,new A.br(new A.aJ(r,r,r,r),B.LF,s)],t.D),B.al,B.aH,B.bO),s,s),s,s),s)},
 $S:264}
 A.U_.prototype={
 $0(){var s=this.a
@@ -32850,7 +32850,7 @@ A.B1.prototype={
 I(a){var s,r,q,p,o,n,m,l,k,j=null,i=A.bC(a,j,t.w).w.a.a,h=i<500,g=h?110:80,f=h?30:60
 h=h?30:60
 s=i<540
-r=A.kX(B.LO,B.am,s?$.a9v():$.a9u())
+r=A.kX(B.LP,B.am,s?$.a9v():$.a9u())
 q=A.j0(j,j,s?$.OP():$.OO(),"Whatsapp: ")
 p=s?$.acD():$.acC()
 o=A.aba(j,j)
@@ -32883,13 +32883,13 @@ case 2:return A.Y(null,r)}})
 return A.Z($async$$0,r)},
 $S:21}
 A.CA.prototype={
-I(a){var s,r,q,p,o=null,n=A.bC(a,o,t.w).w.a.a,m=n<500,l=m?350:250,k=m?30:60
+I(a){var s,r,q,p,o=null,n=A.bC(a,o,t.w).w.a.a,m=n<500,l=m?30:60
 m=m?30:60
 s=n<540
-r=A.kX(B.LJ,B.am,s?$.a9v():$.a9u())
-q=A.kX(B.LM,B.am,s?$.OP():$.OO())
+r=A.kX(B.LK,B.am,s?$.a9v():$.a9u())
+q=A.kX(B.LN,B.am,s?$.OP():$.OO())
 p=t.D
-return new A.br(new A.aJ(k,l,m,200),A.l6(A.a([new A.jL(0,B.dj,A.l6(A.a([r,q,new A.br(B.yH,A.kX(B.LI,B.am,s?$.OQ():$.zL()),o),A.afW(A.a([A.G3(B.FA,new A.U5(),A.abb(o,o,B.j,o,o,o,5,o,o,o,B.up,B.up,o,B.h,o,o,o,o,o)),A.G3(B.FB,new A.U6(),A.abb(B.E,o,B.j,o,o,o,5,o,o,o,B.uo,B.uo,o,B.h,o,o,o,o,o))],p),10,10)],p),B.bc,B.aH,B.aq),o)],p),B.al,B.aH,B.aq),o)}}
+return new A.br(new A.aJ(l,250,m,200),A.l6(A.a([new A.jL(0,B.dj,A.l6(A.a([r,q,new A.br(B.yH,A.kX(B.LJ,B.am,s?$.OQ():$.zL()),o),A.afW(A.a([A.G3(B.FB,new A.U5(),A.abb(o,o,B.j,o,o,o,5,o,o,o,B.up,B.up,o,B.h,o,o,o,o,o)),A.G3(B.FA,new A.U6(),A.abb(B.E,o,B.j,o,o,o,5,o,o,o,B.uo,B.uo,o,B.h,o,o,o,o,o))],p),10,10)],p),B.bc,B.aH,B.aq),o)],p),B.al,B.aH,B.aq),o)}}
 A.U5.prototype={
 $0(){A.zA("https://www.youtube.com/watch?v=dQw4w9WgXcQ")},
 $S:0}
@@ -32900,7 +32900,7 @@ A.Ed.prototype={
 I(a){var s,r=null,q=A.bC(a,r,t.w).w.a.a,p=q<500,o=p?110:80,n=p?30:60
 p=p?30:60
 s=t.D
-return new A.br(new A.aJ(n,o,p,80),A.l6(A.a([A.kX(B.LG,B.am,q<540?$.a9v():$.a9u()),B.ur,A.nd(A.afW(A.a([A.t8(!1,!0,new A.oq("assets/projects/campusconnect.jpg","Campus Connect: UNAH-VS","Campus Connect: UNAH-VS es una red social estudiantil con un toque especial. Ofrece un marketplace, noticias, entretenimiento y personalizaci\xf3n de perfiles, todo en un solo lugar.",new A.XE(),new A.XF(),new A.XG(),B.zz,B.LF,B.LH,r),r,!0,r,r,r,r,r,r,r,r,r,new A.XH(a),r,r,r,r,r),B.Fi,B.Fh],s),16,16),r,r),A.nd(new A.br(B.yI,A.mj("M\xe1s proyectos pr\xf3ximamente",$.zL(),r),r),r,r)],s),B.bc,B.aH,B.aq),r)}}
+return new A.br(new A.aJ(n,o,p,80),A.l6(A.a([A.kX(B.LH,B.am,q<540?$.a9v():$.a9u()),B.ur,A.nd(A.afW(A.a([A.t8(!1,!0,new A.oq("assets/projects/campusconnect.jpg","Campus Connect: UNAH-VS","Campus Connect: UNAH-VS es una red social estudiantil con un toque especial. Ofrece un marketplace, noticias, entretenimiento y personalizaci\xf3n de perfiles, todo en un solo lugar.",new A.XE(),new A.XF(),new A.XG(),B.zz,B.LG,B.LI,r),r,!0,r,r,r,r,r,r,r,r,r,new A.XH(a),r,r,r,r,r),B.Fi,B.Fh],s),16,16),r,r),A.nd(new A.br(B.yI,A.mj("M\xe1s proyectos pr\xf3ximamente",$.zL(),r),r),r,r)],s),B.bc,B.aH,B.aq),r)}}
 A.XH.prototype={
 $0(){return A.k6(this.a,!1).J_("/projects/campusconnect",null,t.X)},
 $S:0}
@@ -32914,7 +32914,7 @@ A.XG.prototype={
 $0(){},
 $S:0}
 A.n9.prototype={
-I(a){var s=null,r=A.bC(a,s,t.w).w,q=A.a9K(s,s,!0,B.B,s,1,s,s,s,!1,s,!1,B.h,s,s,s,!0,s,s,s,s,s,B.LL,s,s,s,1,s)
+I(a){var s=null,r=A.bC(a,s,t.w).w,q=A.a9K(s,s,!0,B.B,s,1,s,s,s,!1,s,!1,B.h,s,s,s,!0,s,s,s,s,s,B.LM,s,s,s,1,s)
 return A.ab_(q,B.iM,A.nd(A.a_v(new A.br(B.yR,A.uY(A.a([new A.jL(1,B.dj,A.mj("Par\xe1 emoci\xf3n que a\xfan no he terminado Campus Connect, Pero ya casi, digamos que va al 80% para su primera release \uff08\u3063\uff3e\u25bf\uff3e\uff09",r.a.a<540?$.OP():$.OO(),B.c4),s)],t.D),B.al,B.bO),s),s,s),s,s),!1)}}
 A.a99.prototype={
 $1(a){var s=null,r=t.A
@@ -39184,7 +39184,7 @@ A.B9.prototype={
 G9(a,b,c,d,e,f){return A.alA(a,b,c,d,e,f)}}
 A.DX.prototype={
 ui(a){var s=t.Tr
-return A.an(new A.ah(B.BG,new A.WS(a),s),!0,s.h("b7.E"))},
+return A.an(new A.ah(B.BF,new A.WS(a),s),!0,s.h("b7.E"))},
 k(a,b){var s,r=this
 if(b==null)return!1
 if(r===b)return!0
@@ -60972,7 +60972,7 @@ g.p2=A.z(t.D2,q)
 p=g.p1
 s=s.c
 g.p1=A.z(s,q)
-for(o=0;o<4;++o){n=B.BH[o]
+for(o=0;o<4;++o){n=B.BG[o]
 m=f.Y7(n)
 l=m==null?null:m.a
 k=p.i(0,n)
@@ -64665,8 +64665,8 @@ B.x8=new A.nb(null,null,null,null,null,null,null)
 B.k=new A.dK(3,400)
 B.e=new A.ml(0)
 B.uE=new A.k(!0,B.h,null,null,null,null,16,B.k,null,null,null,null,null,null,null,null,null,B.e,null,null,null,null,null,null,null,null)
-B.LN=new A.co("No Image",null,B.uE,null,null)
-B.x9=new A.nc(B.E,null,null,B.LN,null)
+B.LO=new A.co("No Image",null,B.uE,null,null)
+B.x9=new A.nc(B.E,null,null,B.LO,null)
 B.yP=new A.aJ(20,20,20,20)
 B.c4=new A.fM(2,"center")
 B.LQ=new A.co("\xa9 2023 David Gevawer. Todos los derechos reservados.",null,B.uE,B.c4,null)
@@ -65081,16 +65081,16 @@ B.jA=A.a(s([B.cF,B.cG,B.cH,B.cI,B.oC,B.oD,B.oE,B.oF,B.DM]),A.ai("y<ey>"))
 B.c1=new A.cF(1,"fuchsia")
 B.c2=new A.cF(3,"linux")
 B.c3=new A.cF(5,"windows")
-B.BG=A.a(s([B.aL,B.c1,B.aM,B.c2,B.bu,B.c3]),A.ai("y<cF>"))
+B.BF=A.a(s([B.aL,B.c1,B.aM,B.c2,B.bu,B.c3]),A.ai("y<cF>"))
 B.ff=A.a(s([!0,!1]),t.HZ)
 B.aR=new A.fV(0,"leading")
 B.ar=new A.fV(1,"title")
 B.as=new A.fV(2,"subtitle")
 B.aZ=new A.fV(3,"trailing")
-B.BH=A.a(s([B.aR,B.ar,B.as,B.aZ]),A.ai("y<fV>"))
+B.BG=A.a(s([B.aR,B.ar,B.as,B.aZ]),A.ai("y<fV>"))
 B.ht=new A.y0(0,"named")
 B.Nt=new A.y0(1,"anonymous")
-B.BI=A.a(s([B.ht,B.Nt]),A.ai("y<y0>"))
+B.BH=A.a(s([B.ht,B.Nt]),A.ai("y<y0>"))
 B.BM=A.a(s([-1,0,0,1,0,0,-1,0,1,0,0,0,-1,1,0,1,1,1,1,0]),t.up)
 B.ap=new A.e(4294967304)
 B.ct=new A.e(4294967323)
@@ -65937,8 +65937,8 @@ B.AW=A.a(s([B.oh,null,null,B.fr]),t.L)
 B.AX=A.a(s([B.oi,null,null,B.fs]),t.L)
 B.AY=A.a(s([B.oj,null,null,B.ft]),t.L)
 B.AZ=A.a(s([B.ok,null,null,B.fu]),t.L)
-B.BJ=A.a(s([B.ol,null,null,B.fv]),t.L)
-B.BK=A.a(s([B.om,null,null,B.fw]),t.L)
+B.BI=A.a(s([B.ol,null,null,B.fv]),t.L)
+B.BJ=A.a(s([B.om,null,null,B.fw]),t.L)
 B.Bu=A.a(s([B.cz,B.cz,B.dC,null]),t.L)
 B.BL=A.a(s([B.dy,null,B.dy,null]),t.L)
 B.B0=A.a(s([B.aF,null,null,B.fp]),t.L)
@@ -65956,7 +65956,7 @@ B.Bw=A.a(s([B.cA,B.cA,B.dD,null]),t.L)
 B.B5=A.a(s([B.cv,null,null,B.fq]),t.L)
 B.Bs=A.a(s([B.cw,null,null,B.fw]),t.L)
 B.Bx=A.a(s([B.bN,B.bN,B.cy,null]),t.L)
-B.Dz=new A.cb(["*",B.Bz,"+",B.BA,"-",B.BB,".",B.BC,"/",B.BD,"0",B.AS,"1",B.AT,"2",B.AU,"3",B.AV,"4",B.AW,"5",B.AX,"6",B.AY,"7",B.AZ,"8",B.BJ,"9",B.BK,"Alt",B.Bu,"AltGraph",B.BL,"ArrowDown",B.B0,"ArrowLeft",B.B1,"ArrowRight",B.B2,"ArrowUp",B.Bc,"Clear",B.Bq,"Control",B.Bv,"Delete",B.AR,"End",B.B3,"Enter",B.BE,"Home",B.B4,"Insert",B.Br,"Meta",B.Bw,"PageDown",B.B5,"PageUp",B.Bs,"Shift",B.Bx],A.ai("cb<q,x<e?>>"))
+B.Dz=new A.cb(["*",B.Bz,"+",B.BA,"-",B.BB,".",B.BC,"/",B.BD,"0",B.AS,"1",B.AT,"2",B.AU,"3",B.AV,"4",B.AW,"5",B.AX,"6",B.AY,"7",B.AZ,"8",B.BI,"9",B.BJ,"Alt",B.Bu,"AltGraph",B.BL,"ArrowDown",B.B0,"ArrowLeft",B.B1,"ArrowRight",B.B2,"ArrowUp",B.Bc,"Clear",B.Bq,"Control",B.Bv,"Delete",B.AR,"End",B.B3,"Enter",B.BE,"Home",B.B4,"Insert",B.Br,"Meta",B.Bw,"PageDown",B.B5,"PageUp",B.Bs,"Shift",B.Bx],A.ai("cb<q,x<e?>>"))
 B.DA=new A.tB(null,null,null,null,null,null,null,null)
 B.xI=new A.A(4284790262)
 B.xB=new A.A(4282557941)
@@ -66116,18 +66116,18 @@ B.Fz=new A.oB(2,"bubble")
 B.fT=new A.fD(null,null)
 B.os=new A.Dc(2,"center")
 B.aY=new A.Gx(1,"down")
-B.zp=new A.Un(61515,"FontAwesomeSolid","font_awesome_flutter",!1)
-B.zx=new A.iB(B.zp,null,null,null)
-B.h8=new A.cu(10,null,null,null)
-B.uD=new A.k(!0,B.h,null,null,null,null,18,B.aw,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.LP=new A.co("Top 10 mejores momentos de m\xed xd",null,B.uD,null,null)
-B.BF=A.a(s([B.zx,B.h8,B.LP]),t.D)
-B.FA=new A.oC(B.ac,B.os,B.aq,B.al,null,B.aY,null,B.BF,null)
 B.zo=new A.Um(61595,"FontAwesomeBrands","font_awesome_flutter",!1)
 B.zA=new A.iB(B.zo,null,null,null)
-B.LK=new A.co("GitHub",null,B.uD,null,null)
-B.Bt=A.a(s([B.zA,B.h8,B.LK]),t.D)
-B.FB=new A.oC(B.ac,B.os,B.aq,B.al,null,B.aY,null,B.Bt,null)
+B.h8=new A.cu(10,null,null,null)
+B.uD=new A.k(!0,B.h,null,null,null,null,18,B.aw,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.LL=new A.co("GitHub",null,B.uD,null,null)
+B.Bt=A.a(s([B.zA,B.h8,B.LL]),t.D)
+B.FA=new A.oC(B.ac,B.os,B.aq,B.al,null,B.aY,null,B.Bt,null)
+B.zp=new A.Un(61515,"FontAwesomeSolid","font_awesome_flutter",!1)
+B.zx=new A.iB(B.zp,null,null,null)
+B.LE=new A.co("Link 100% real no fake",null,B.uD,null,null)
+B.BK=A.a(s([B.zx,B.h8,B.LE]),t.D)
+B.FB=new A.oC(B.ac,B.os,B.aq,B.al,null,B.aY,null,B.BK,null)
 B.FC=new A.F1(null,null)
 B.bZ=new A.m5(0,"idle")
 B.FD=new A.m5(1,"transientCallbacks")
@@ -66598,16 +66598,16 @@ B.KD=new A.k(!0,B.h,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.K9=new A.k(!0,B.h,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.LD=new A.cg(B.JN,B.Li,B.L0,B.Il,B.KU,B.JJ,B.Ln,B.IN,B.Jn,B.KH,B.Ic,B.L2,B.KR,B.KD,B.K9)
 B.hf=new A.k(!0,B.h,null,null,null,null,24,B.aw,null,null,null,null,null,null,null,null,null,B.e,null,null,null,null,null,null,null,null)
-B.LE=new A.co("S\xed, este soy yo :P",null,B.hf,B.c4,null)
-B.LF=new A.co("iOS",null,B.d1,null,null)
-B.LG=new A.co("Proyectos",null,null,null,null)
-B.LH=new A.co("</>",null,B.d1,null,null)
-B.LI=new A.co("Messi y el asado, \xa1qu\xe9 quilombo, che!",null,null,null,null)
-B.LJ=new A.co("Hola, buenas.",null,null,null,null)
+B.LF=new A.co("S\xed, este soy yo :P",null,B.hf,B.c4,null)
+B.LG=new A.co("iOS",null,B.d1,null,null)
+B.LH=new A.co("Proyectos",null,null,null,null)
+B.LI=new A.co("</>",null,B.d1,null,null)
+B.LJ=new A.co("Messi y el asado, \xa1qu\xe9 quilombo, che!",null,null,null,null)
+B.LK=new A.co("Hola, buenas.",null,null,null,null)
 B.uG=new A.co("Proyectos",null,B.d1,null,null)
-B.LL=new A.co("CampusConnect",null,B.hf,null,null)
-B.LM=new A.co("\xbfQu\xe9 tal?",null,null,null,null)
-B.LO=new A.co("Hola, contactame no seas malo",null,null,null,null)
+B.LM=new A.co("CampusConnect",null,B.hf,null,null)
+B.LN=new A.co("\xbfQu\xe9 tal?",null,null,null,null)
+B.LP=new A.co("Hola, contactame no seas malo",null,null,null,null)
 B.uJ=new A.co("Inicio",null,B.d1,null,null)
 B.LR=new A.co("David Gevawer",null,B.hf,null,null)
 B.LS=new A.vV(0,"system")
