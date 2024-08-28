@@ -1,0 +1,28 @@
+.contactSection{
+  padding: 90px 60px 160px 60px;
+  
+}
+
+.container{
+  padding: 30px 0 0 0;
+}
+
+.a{
+  color: #26a5ff;
+}
+
+@media (max-width: 768px) { 
+  .contactSection{
+    padding: 90px 35px 160px 35px;
+  }
+}
+
+@media (max-width: 480px) {
+  .contactSection{
+    padding: 90px 35px 160px 35px;
+  }
+
+  .a{
+    font-size: 22.2px;
+  }
+}

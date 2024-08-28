@@ -1,0 +1,23 @@
+.homeSection{
+  height: 70vh;
+  padding: 230px 60px 0 60px;
+}
+
+.divRow{
+  display: inline-flex;
+  gap: 15px;
+}
+
+@media (max-width: 768px) { 
+  .homeSection {
+    height: 70vh;
+    padding: 290px 35px 0 35px;
+  }
+}
+
+@media (max-width: 480px) {
+  .homeSection {
+    height: 60vh; 
+    padding: 290px 35px 0 35px;
+  }
+}

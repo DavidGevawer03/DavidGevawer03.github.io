@@ -1,0 +1,48 @@
+.popupMenuContainer {
+  position: relative;
+  display: inline-block;
+}
+
+.menuButton {
+  background-color: transparent;
+  color: white;
+  padding: 5px 10px;
+  font-size: 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.menuButton:hover {
+  background-color: none;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background-color: white;
+  z-index: 1;
+  border-radius: 5px;
+}
+
+.menu a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  border-bottom: 1px solid #ddd;
+}
+
+.menu a:last-child {
+  border-bottom: none;
+}
+
+/*Vista en pantalla grande*/
+@media (min-width: 769px) {
+  .popupMenuContainer {
+    display: none;
+  }
+}
